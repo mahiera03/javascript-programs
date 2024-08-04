@@ -20,7 +20,7 @@ bankDetails("CITI Bank", 345682345, "Pune", 431202);
 
 console.log("==== output for Argument no-02====");
 
-bankDetails("Axis Bank", 7856782345, 'Mumbai', 441202);
+bankDetails("Axis Bank", 7856782345, "Mumbai", 441202);
 
 console.log("==== output for Argument no-03====");
 
